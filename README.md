@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jeet Senapati</h1>
 <h3 align="center">🚀 Full Stack Web Developer | AI Enthusiast</h3>
 
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/4f726b05e95c515201c81c1f36fcce49e77ded18bc52ecc43d978e0964f2244d/68747470733a2f2f70687973696373777572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Web+Developer;AI+%26+ML+Explorer;Building+Real+World+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
