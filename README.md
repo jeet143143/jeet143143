@@ -2,20 +2,14 @@
 <h3 align="center">🚀 Full Stack Web Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Web+Developer;AI+%26+ML+Explorer;Building+Real+World+Projects;Always+Learning+New+Things&center=true&width=400&height=45">
-</p>
-
-<p align="center">
-  <img src="[https://camo.githubusercontent.com/4f726b05e95c515201c81c1f36fcce49e77ded18bc52ecc43d978e0964f2244d/68747470733a2f2f70687973696373777572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)" width="300">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Web+Developer;AI+%26+ML+Explorer;Building+Real+World+Projects;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 - 🎓 B.Tech in Computer Science & IT  
-- 💡 Passionate about **Web Development & AI/ML**  
-- 🔥 Built an **AI-powered E-commerce Website with Chat Support**  
-- 🌱 Currently learning **Advanced React & Backend Systems**  
+- 💡 Passionate about **Web Development & AI/ML**   
 - ⚡ Love solving problems & building real-world apps  
 
 ---
@@ -28,14 +22,6 @@
 
 ---
 
-## 🧠 Featured Project
-
-### 🛒 AI-Powered E-commerce Website
-- 🤖 Integrated AI chatbot using **Botpress**  
-- 🧠 Working on **review summarization using LangChain + OpenAI**  
-- 🌐 Built with **Node.js, Express, MongoDB, EJS**  
-
-👉 More projects coming soon...
 
 ---
 
@@ -62,7 +48,7 @@
 ---
 
 ## 💬 Ask Me About
-💡 React | Node.js | Java | MongoDB | AI Integration  
+💡 React | Node.js | Java | MongoDB | AI Integration
 
 ---
 
