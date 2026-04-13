@@ -24,16 +24,6 @@
 
 ---
 
-## 🧠 Featured Project
-
-### 🛒 AI-Powered E-commerce Website
-- 🤖 Integrated AI chatbot using **Botpress**
-- 🧠 Working on **review summarization using LangChain + OpenAI**
-- 🌐 Full stack app using **Node.js, Express, MongoDB, EJS**
-
-👉 *More projects coming soon...*
-
----
 
 ## 📊 GitHub Stats
 
