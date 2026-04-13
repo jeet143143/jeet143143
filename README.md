@@ -10,8 +10,6 @@
 ## 🧑‍💻 About Me
 - 🎓 B.Tech in Computer Science & IT  
 - 💡 Passionate about **Web Development & AI/ML**  
-- 🔥 Built an **E-commerce website with AI Chat Support**  
-- 🌱 Currently learning **Advanced React & Backend Systems**  
 - ⚡ Love solving problems & building real-world apps  
 
 ---
