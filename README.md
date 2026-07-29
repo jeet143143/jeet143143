@@ -64,13 +64,13 @@ Full Stack Developer • Java Programmer • AI & ML Enthusiast
 
 ---
 
-## 📅 Contribution Calendar
 
 ## 📅 Contribution Calendar
 
 <p align="center">
   <img src="https://ghchart.rshah.org/jeet143143" alt="Jeet Senapati's GitHub Contribution Chart" />
 </p>
+
 ---
 
 # 🌐 Connect With Me
