@@ -64,14 +64,11 @@ Full Stack Developer • Java Programmer • AI & ML Enthusiast
 
 ---
 
-# 📈 Contribution Graph
+## 📅 Contribution Calendar
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeet143143&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://ghchart.rshah.org/409ba5/jeet143143" alt="Contribution Chart" />
 </p>
-
 ---
 
 # 🌐 Connect With Me
