@@ -49,12 +49,9 @@ Full Stack Developer • Java Programmer • AI & ML Enthusiast
 
 <img height="170" src="https://github-readme-streak-stats.demolab.com?user=jeet143143&theme=tokyonight&hide_border=true" />
 
-</p>
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeet143143&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=jeet143143&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=jeet143143&theme=tokyonight" />
 </p>
 
 ---
@@ -62,9 +59,7 @@ Full Stack Developer • Java Programmer • AI & ML Enthusiast
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jeet143143&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=jeet143143&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
