@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="500" viewBox="0 0 490 500">
+<style>
+  .t{font-family:monospace}
+  .title{font-size:23px;font-weight:700}
+  .sub{font-size:13px}
+  .k{font-size:14px;font-weight:700}
+  .v{font-size:13px}
+  .line{opacity:0;animation:in .45s ease-out forwards}
+  @keyframes in{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:translateX(0)}}
+</style>
+<rect width="490" height="500" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<circle cx="22" cy="22" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="22" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="22" r="6" fill="#27c93f"/>
+<text x="82" y="27" class="t sub" fill="#39d353">jeet@github ~ $ neofetch</text>
+
+<text x="25" y="70" class="t title" fill="#f0f6fc">Jeet <tspan fill="#39d353">Senapati</tspan></text>
+<text x="25" y="94" class="t sub" fill="#58a6ff">Full Stack Developer | AI &amp; ML Enthusiast</text>
+<line x1="25" y1="108" x2="465" y2="108" stroke="#39d353" stroke-width="2"/>
+
+<g class="t line" style="animation-delay:.15s">
+<text x="25" y="137" class="k" fill="#7ee787">Username</text>
+<text x="145" y="137" class="v" fill="#c9d1d9">jeet143143</text>
+</g>
+<g class="t line" style="animation-delay:.30s">
+<text x="25" y="163" class="k" fill="#7ee787">Education</text>
+<text x="145" y="163" class="v" fill="#c9d1d9">B.Tech CS &amp; IT</text>
+</g>
+<g class="t line" style="animation-delay:.45s">
+<text x="25" y="189" class="k" fill="#7ee787">University</text>
+<text x="145" y="189" class="v" fill="#c9d1d9">UEM Kolkata</text>
+</g>
+<g class="t line" style="animation-delay:.60s">
+<text x="25" y="215" class="k" fill="#7ee787">Graduation</text>
+<text x="145" y="215" class="v" fill="#c9d1d9">2026</text>
+</g>
+<g class="t line" style="animation-delay:.75s">
+<text x="25" y="241" class="k" fill="#7ee787">CGPA</text>
+<text x="145" y="241" class="v" fill="#c9d1d9">8.01 / 10</text>
+</g>
+<g class="t line" style="animation-delay:.90s">
+<text x="25" y="267" class="k" fill="#7ee787">Focus</text>
+<text x="145" y="267" class="v" fill="#c9d1d9">Java + DSA + AI/ML</text>
+</g>
+
+<line x1="25" y1="286" x2="465" y2="286" stroke="#30363d"/>
+
+<text x="25" y="312" class="t k" fill="#39d353">Tech Stack</text>
+<text x="25" y="337" class="t v" fill="#c9d1d9">Java   JavaScript   Python   SQL</text>
+<text x="25" y="359" class="t v" fill="#c9d1d9">React   Node.js   Express   MongoDB</text>
+<text x="25" y="381" class="t v" fill="#c9d1d9">LangChain   Groq   OpenAI   Socket.io</text>
+<text x="25" y="403" class="t v" fill="#c9d1d9">Three.js   GSAP   Git   Vercel</text>
+
+<line x1="25" y1="420" x2="465" y2="420" stroke="#30363d"/>
+
+<g class="t line" style="animation-delay:1.05s">
+<text x="25" y="446" class="k" fill="#39d353">Featured</text>
+<text x="105" y="446" class="v" fill="#c9d1d9">IntervueX</text>
+<text x="220" y="446" class="v" fill="#c9d1d9">E-Commerce AI</text>
+</g>
+<g class="t line" style="animation-delay:1.20s">
+<text x="25" y="469" class="k" fill="#39d353">Building</text>
+<text x="105" y="469" class="v" fill="#c9d1d9">better software 🚀</text>
+</g>
+</svg>
