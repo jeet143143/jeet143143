@@ -1,265 +1,245 @@
-<div align="center">
+# 👋 Hi, I'm Jeet Senapati
 
-# `jeet@github ~ $ whoami`
+### 💻 Full Stack Developer | 🤖 AI & ML Enthusiast
 
-### Jeet Senapati
-
-**Full Stack Developer · AI & ML Enthusiast · 2026 CS Graduate**
-
-<p>
-  <a href="https://github.com/jeet143143">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/jeet-senapati/](https://www.linkedin.com/in/jeet-senapati-23921324a/">LinkedIn</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Java+%7C+JavaScript+%7C+Node.js;Building+Projects+%26+Solving+DSA" alt="Typing SVG" />
 </p>
 
-</div>
-
----
-
-<div align="center">
-
-<h3><code>jeet@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub contribution heatmap" />
-
-<br><br>
-
-<h3><code>jeet@github ~ $ whoami</code></h3>
-
-<table>
-  <tr>
-    <td valign="top">
-      <img src="./jeet-ascii.svg" width="370" alt="Animated ASCII portrait" />
-    </td>
-    <td valign="top">
-      <img src="./info-card.svg" width="490" alt="Animated developer information card" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### `jeet@github ~ $ cat about.txt`
-
-</div>
-
-> I'm **Jeet Senapati**, a Computer Science & Information Technology graduate from **UEM Kolkata**, interested in building full-stack products and AI-powered applications.
->
-> I enjoy turning ideas into usable products — from real-time communication systems and e-commerce platforms to AI interview coaches and review-analysis tools.
->
-> Currently focused on **Java, DSA, backend development, AI/ML, system design, and building production-ready applications.**
-
----
-
-<div align="center">
-
-### `jeet@github ~ $ cat stack.txt`
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**Languages**
-
-Java · JavaScript · Python · SQL
-
-</td>
-<td align="center" width="50%">
-
-**Frontend**
-
-HTML · CSS · JavaScript · React · EJS · Tailwind CSS
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-**Backend**
-
-Node.js · Express.js · REST APIs · JWT
-
-</td>
-<td align="center" width="50%">
-
-**Databases**
-
-MongoDB · SQL
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-**AI / ML**
-
-LLMs · Groq · OpenAI · LangChain · AI Chatbots
-
-</td>
-<td align="center" width="50%">
-
-**Tools**
-
-Git · GitHub · Vercel · Socket.io · Three.js · GSAP
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### `jeet@github ~ $ ls projects/`
-
-</div>
-
-### `01 · IntervueX`
-
-**AI-Powered Interview Preparation Platform**
-
-A full-stack AI interview coaching platform that simulates realistic mock interviews and provides personalized feedback.
-
-- 🤖 AI-powered mock interviews
-- 📄 Resume-powered personalized questions
-- 🏢 Company-specific interview patterns
-- 🎤 Voice answers with speech-to-text
-- 📊 AI evaluation and detailed feedback
-- 📈 Progress dashboard and score tracking
-- 📑 Resume ATS analyzer
-- 💻 Built-in coding notepad
-
-**Stack:** `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB` `Groq` `Three.js` `GSAP` `Chart.js` `Web Speech API`
-
-<p>
-<a href="https://github.com/jeet143143/IntervueX">View Repository →</a>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat" alt="GitHub followers"/>
+  </a>
 </p>
 
 ---
 
-### `02 · E-Commerce + AI Review Summarizer`
+## 🚀 About Me
 
-A full-stack e-commerce application enhanced with AI-powered customer review analysis and conversational support.
+* 🎓 B.Tech in Computer Science & Information Technology — **2026 Graduate**
+* 💻 Interested in **Software Development & Full Stack Development**
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 🧠 Currently strengthening **DSA with Java**
+* 🌱 Learning and building with modern web technologies
+* 🚀 Interested in creating scalable and useful applications
+* 📍 India
 
-- 🛒 E-commerce workflow
-- 🗄️ MongoDB-backed application
-- ⚙️ Node.js + Express backend
-- ✨ Animated frontend
-- 🤖 AI-powered review summarization
-- 💬 AI chat support
+---
 
-**Stack:** `EJS` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB` `LangChain` `OpenAI` `Botpress`
+## 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p>
-<a href="https://github.com/jeet143143/ecom">View Repository →</a>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,threejs" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
 
 ---
 
-### `03 · Real-Time Chat Application`
+## 💼 Featured Projects
 
-A real-time messaging application built around modern web communication and authentication.
+### 🛒 AI-Powered E-Commerce Platform
 
-- 💬 Real-time messaging
-- ⚡ Socket.io communication
-- 🔐 JWT authentication
-- 🗄️ MongoDB persistence
-- 📱 Responsive interface
+A full-stack e-commerce application with an animated user interface and AI-powered features.
 
-**Stack:** `MERN` `Socket.io` `JWT` `Tailwind CSS`
+**Tech:** `EJS` `JavaScript` `Node.js` `Express.js` `MongoDB` `Botpress` `Shery.js`
 
-<p>
-<a href="https://github.com/jeet143143/real-chat-app">View Repository →</a>
-</p>
+**Features:**
 
----
-
-### `04 · Financial KPI Dashboard`
-
-A dashboard project focused on presenting financial metrics and business performance through a clean visual interface.
-
-**Stack:** `JavaScript` `Data Visualization` `Dashboard UI`
-
-<p>
-<a href="https://github.com/jeet143143/financial-kpi-dashboard">View Repository →</a>
-</p>
+* 🛍️ Product browsing and management
+* 🔐 User authentication
+* 🤖 AI chat support
+* 📊 MongoDB-based data management
+* ✨ Animated interactive UI
 
 ---
 
-<div align="center">
+### 🤖 InterviewX — AI Interview Coach
 
-### `jeet@github ~ $ git status`
+An AI-powered interview preparation platform designed to help candidates practice and improve their interview performance.
 
-</div>
+**Features:**
+
+* 📄 Resume analysis
+* 🎤 Mock interviews
+* 🤖 AI interview coach
+* 📊 Interview feedback
+* 🏢 Company-specific preparation
+
+---
+
+### 💬 Real-Time Chat Application
+
+A real-time communication platform built using the MERN stack.
+
+**Tech:** `MongoDB` `Express.js` `React` `Node.js` `Socket.io` `JWT`
+
+**Features:**
+
+* 💬 Real-time messaging
+* 🔐 JWT authentication
+* 👤 User management
+* ⚡ Socket.io communication
+* 🎨 Responsive interface
+
+---
+
+## 🧠 Currently Learning
 
 ```text
-On branch main
-
-Currently working on:
-
-+ Java & DSA
-+ Backend development
-+ AI / ML applications
-+ System design
-+ Full-stack projects
-+ Problem solving
-+ Better engineering practices
-
-nothing to commit -- just keep building.
+DSA with Java
+   ↓
+Data Structures
+   ↓
+Algorithms
+   ↓
+Problem Solving
+   ↓
+System Design
+   ↓
+Backend Development
+   ↓
+AI-powered Applications
 ```
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-### `jeet@github ~ $ cat learning.log`
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 📈 My GitHub Contributions
+
+<!-- DEFAULT GITHUB CONTRIBUTION GRAPH -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+---
+
+## 📚 DSA Journey
+
+Currently focusing on:
 
 ```text
-[+] Advanced DSA
-[+] Java backend development
-[+] System design
-[+] LLM applications
-[+] RAG & AI agents
-[+] React & modern frontend
-[+] Cloud & deployment
+Arrays
+ ├── Two Pointer
+ ├── Sliding Window
+ └── Hashing
+
+Linked List
+ ├── Fast & Slow Pointer
+ └── Reversal
+
+Stack & Queue
+ ├── Monotonic Stack
+ └── BFS
+
+Trees
+ ├── DFS
+ ├── BFS
+ └── Binary Search Tree
+
+Graphs
+ ├── DFS
+ ├── BFS
+ ├── Cycle Detection
+ └── Topological Sort
+
+Algorithms
+ ├── Binary Search
+ ├── Recursion
+ ├── Greedy
+ └── Dynamic Programming
 ```
 
 ---
 
-<div align="center">
+## 🤝 Connect With Me
 
-### `jeet@github ~ $ ./connect.sh`
-
-<p>
-  <a href="senapatijeet2004@gmail.com">📧 Email</a> ·
-  <a href="https://www.linkedin.com/in/jeet-senapati/">💼 LinkedIn</a> ·
-  <a href="https://github.com/jeet143143">🐙 GitHub</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
-<br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=jeet143143&style=flat-square"
-  alt="Profile views"
-/>
-
-</div>
 
 ---
 
-<div align="center">
+## 💡 Developer Philosophy
 
-<sub>
-Built with code, curiosity, and too many terminal windows.
-</sub>
+> **Build. Break. Learn. Improve. Repeat.**
 
-</div>
+I believe the best way to learn software development is by continuously building projects, solving problems, and understanding how things work under the hood.
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me!
+</p>
