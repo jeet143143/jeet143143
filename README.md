@@ -1,245 +1,27 @@
-# 👋 Hi, I'm Jeet Senapati
+# 💫 About Me:
+B.Tech in Computer Science & Information Technology — 2026 Graduate<br>💻 Interested in Software Development & Full Stack Development<br>🤖 Exploring Artificial Intelligence & Machine Learning<br>🧠 Currently strengthening DSA with Java<br>🌱 Learning and building with modern web technologies<br>🚀 Interested in creating scalable and useful applications<br>📍 India
 
-### 💻 Full Stack Developer | 🤖 AI & ML Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Java+%7C+JavaScript+%7C+Node.js;Building+Projects+%26+Solving+DSA" alt="Typing SVG" />
-</p>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:senapatijeet2004@gmail.com) 
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat" alt="GitHub followers"/>
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech in Computer Science & Information Technology — **2026 Graduate**
-* 💻 Interested in **Software Development & Full Stack Development**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🧠 Currently strengthening **DSA with Java**
-* 🌱 Learning and building with modern web technologies
-* 🚀 Interested in creating scalable and useful applications
-* 📍 India
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,threejs" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### 🤖 AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
-</p>
-
----
-
-## 💼 Featured Projects
-
-### 🛒 AI-Powered E-Commerce Platform
-
-A full-stack e-commerce application with an animated user interface and AI-powered features.
-
-**Tech:** `EJS` `JavaScript` `Node.js` `Express.js` `MongoDB` `Botpress` `Shery.js`
-
-**Features:**
-
-* 🛍️ Product browsing and management
-* 🔐 User authentication
-* 🤖 AI chat support
-* 📊 MongoDB-based data management
-* ✨ Animated interactive UI
-
----
-
-### 🤖 InterviewX — AI Interview Coach
-
-An AI-powered interview preparation platform designed to help candidates practice and improve their interview performance.
-
-**Features:**
-
-* 📄 Resume analysis
-* 🎤 Mock interviews
-* 🤖 AI interview coach
-* 📊 Interview feedback
-* 🏢 Company-specific preparation
-
----
-
-### 💬 Real-Time Chat Application
-
-A real-time communication platform built using the MERN stack.
-
-**Tech:** `MongoDB` `Express.js` `React` `Node.js` `Socket.io` `JWT`
-
-**Features:**
-
-* 💬 Real-time messaging
-* 🔐 JWT authentication
-* 👤 User management
-* ⚡ Socket.io communication
-* 🎨 Responsive interface
-
----
-
-## 🧠 Currently Learning
-
-```text
-DSA with Java
-   ↓
-Data Structures
-   ↓
-Algorithms
-   ↓
-Problem Solving
-   ↓
-System Design
-   ↓
-Backend Development
-   ↓
-AI-powered Applications
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 📈 My GitHub Contributions
-
-<!-- DEFAULT GITHUB CONTRIBUTION GRAPH -->
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jeet143143&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=jeet143143&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jeet143143&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jeet143143&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 📚 DSA Journey
-
-Currently focusing on:
-
-```text
-Arrays
- ├── Two Pointer
- ├── Sliding Window
- └── Hashing
-
-Linked List
- ├── Fast & Slow Pointer
- └── Reversal
-
-Stack & Queue
- ├── Monotonic Stack
- └── BFS
-
-Trees
- ├── DFS
- ├── BFS
- └── Binary Search Tree
-
-Graphs
- ├── DFS
- ├── BFS
- ├── Cycle Detection
- └── Topological Sort
-
-Algorithms
- ├── Binary Search
- ├── Recursion
- ├── Greedy
- └── Dynamic Programming
-```
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jeet143143&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=jeet143143&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💡 Developer Philosophy
-
-> **Build. Break. Learn. Improve. Repeat.**
-
-I believe the best way to learn software development is by continuously building projects, solving problems, and understanding how things work under the hood.
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
-
-<p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
